@@ -1,3 +1,4 @@
+The code contains all the codes with necessary explanations and observations. To run it on a computer, follow these instructions
 
 Windows:
 
